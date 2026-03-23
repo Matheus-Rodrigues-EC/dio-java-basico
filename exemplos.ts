@@ -215,7 +215,7 @@ function exibirDados(pFunc: Funcionario): void {
 
 
 // ------------------------------------------
-// 5) OUTRO EXEMPLO DA FOLHA: CONSTRUTOR
+// 5) EXEMPLO COM CONSTRUTOR
 // ------------------------------------------
 
 class FuncionarioComConstrutor {
